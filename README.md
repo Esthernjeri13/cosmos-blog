@@ -14,6 +14,7 @@ Fully responsive layout for all devices
 Form validation and theme persistence
 
 🚀 Live Demo
+https://cosmos-blog.vercel.app/
 
 
 ✨ Features
